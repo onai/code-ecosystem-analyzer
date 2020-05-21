@@ -1,0 +1,11 @@
+Package,Count
+tensorflow,119312
+pandas,79842
+numpy,67578
+sklearn,25062
+matplotlib,15073
+scipy,11361
+allennlp,8646
+random,7301
+torch,5899
+chainer,4031

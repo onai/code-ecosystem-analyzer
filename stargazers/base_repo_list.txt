@@ -1,0 +1,10 @@
+http://api.github.com/repos/pandas-dev/pandas/stargazers
+http://api.github.com/repos/numpy/numpy/stargazers
+http://api.github.com/repos/matplotlib/matplotlib
+http://api.github.com/repos/tensorflow/tensorflow
+http://api.github.com/repos/scipy/scipy
+http://api.github.com/repos/scikit-learn/scikit-learn
+http://api.github.com/repos/keras-team/keras
+http://api.github.com/repos/mwaskom/seaborn
+http://api.github.com/repos/nltk/nltk
+http://api.github.com/repos/RaRe-Technologies/gensim
